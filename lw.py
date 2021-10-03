@@ -7,7 +7,7 @@ print("content-type: text/html")
 print()
 
 
-print("Hello from backend")
+print("Hii from backend")
 print()
 f=cgi.FieldStorage()
 cmd=f.getvalue("x")
