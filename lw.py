@@ -8,7 +8,7 @@ print("content-type: text/html")
 print()
 
 
-print("Hello from backend")
+print("Hii from backend")
 print()
 print("$os.open")
 f=cgi.FieldStorage()
